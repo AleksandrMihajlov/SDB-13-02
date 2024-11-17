@@ -16,7 +16,8 @@
  ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.3.png)  
  ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.4.png)  
  ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.5.png)  
- ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.6.png) 
+ ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.6.png)  
+ 
 </details>  
   
 ### Задание 2
@@ -40,5 +41,6 @@
 ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/2.9.png)  
 ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/2.10.png)  
 ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/2.11.png)  
-![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/2.12.png)
+![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/2.12.png)  
+
 </details>  
