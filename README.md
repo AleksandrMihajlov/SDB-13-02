@@ -10,14 +10,15 @@
 *В качестве ответа  пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.*  
   
 <details>  
- ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.png)  
- ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.1.png)  
- ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.2.png)  
- ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.3.png)  
- ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.4.png)  
- ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.5.png)  
- ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.6.png)  
- 
+
+![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.png)  
+![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.1.png)  
+![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.2.png)  
+![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.3.png)  
+![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.4.png)  
+![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.5.png)  
+![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/1.6.png)  
+
 </details>  
   
 ### Задание 2
@@ -29,6 +30,7 @@
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*  
   
 <details>  
+
 ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/2.png)  
 ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/2.1.png)  
 ![alt text](https://github.com/AleksandrMihajlov/SDB-13-02/blob/main/2.2.png)  
